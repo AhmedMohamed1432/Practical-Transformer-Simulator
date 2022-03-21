@@ -1,2 +1,2 @@
 # Practical-Transformer-Simulator
-Detailes of the projects are in the project report
+Detailes of the project are in the project report.
